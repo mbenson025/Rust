@@ -1,0 +1,1 @@
+/Users/masonbenson/Desktop/rust_projects/rust_crash/exercise/c_simple_types/target/debug/ding_machine: /Users/masonbenson/Desktop/rust_projects/rust_crash/exercise/c_simple_types/src/lib.rs /Users/masonbenson/Desktop/rust_projects/rust_crash/exercise/c_simple_types/src/main.rs
