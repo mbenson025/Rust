@@ -1,0 +1,12 @@
+/Users/masonbenson/Desktop/rust_projects/rust_crash/exercise/z_final_project/target/debug/deps/spin-d5abeb8ff18ba75d.rmeta: /Users/masonbenson/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.6/src/lib.rs /Users/masonbenson/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.6/src/barrier.rs /Users/masonbenson/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.6/src/lazy.rs /Users/masonbenson/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.6/src/mutex.rs /Users/masonbenson/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.6/src/mutex/spin.rs /Users/masonbenson/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.6/src/once.rs /Users/masonbenson/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.6/src/relax.rs /Users/masonbenson/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.6/src/rwlock.rs
+
+/Users/masonbenson/Desktop/rust_projects/rust_crash/exercise/z_final_project/target/debug/deps/spin-d5abeb8ff18ba75d.d: /Users/masonbenson/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.6/src/lib.rs /Users/masonbenson/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.6/src/barrier.rs /Users/masonbenson/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.6/src/lazy.rs /Users/masonbenson/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.6/src/mutex.rs /Users/masonbenson/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.6/src/mutex/spin.rs /Users/masonbenson/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.6/src/once.rs /Users/masonbenson/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.6/src/relax.rs /Users/masonbenson/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.6/src/rwlock.rs
+
+/Users/masonbenson/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.6/src/lib.rs:
+/Users/masonbenson/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.6/src/barrier.rs:
+/Users/masonbenson/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.6/src/lazy.rs:
+/Users/masonbenson/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.6/src/mutex.rs:
+/Users/masonbenson/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.6/src/mutex/spin.rs:
+/Users/masonbenson/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.6/src/once.rs:
+/Users/masonbenson/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.6/src/relax.rs:
+/Users/masonbenson/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.6/src/rwlock.rs:

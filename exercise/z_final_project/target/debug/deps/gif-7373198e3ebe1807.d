@@ -1,0 +1,11 @@
+/Users/masonbenson/Desktop/rust_projects/rust_crash/exercise/z_final_project/target/debug/deps/gif-7373198e3ebe1807.rmeta: /Users/masonbenson/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/lib.rs /Users/masonbenson/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/traits.rs /Users/masonbenson/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/common.rs /Users/masonbenson/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/reader/mod.rs /Users/masonbenson/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/reader/decoder.rs /Users/masonbenson/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/encoder.rs /Users/masonbenson/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/../README.md
+
+/Users/masonbenson/Desktop/rust_projects/rust_crash/exercise/z_final_project/target/debug/deps/gif-7373198e3ebe1807.d: /Users/masonbenson/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/lib.rs /Users/masonbenson/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/traits.rs /Users/masonbenson/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/common.rs /Users/masonbenson/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/reader/mod.rs /Users/masonbenson/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/reader/decoder.rs /Users/masonbenson/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/encoder.rs /Users/masonbenson/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/../README.md
+
+/Users/masonbenson/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/lib.rs:
+/Users/masonbenson/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/traits.rs:
+/Users/masonbenson/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/common.rs:
+/Users/masonbenson/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/reader/mod.rs:
+/Users/masonbenson/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/reader/decoder.rs:
+/Users/masonbenson/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/encoder.rs:
+/Users/masonbenson/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/../README.md:

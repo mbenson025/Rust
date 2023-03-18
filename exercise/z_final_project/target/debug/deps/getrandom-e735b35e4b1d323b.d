@@ -1,0 +1,10 @@
+/Users/masonbenson/Desktop/rust_projects/rust_crash/exercise/z_final_project/target/debug/deps/getrandom-e735b35e4b1d323b.rmeta: /Users/masonbenson/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/lib.rs /Users/masonbenson/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/error.rs /Users/masonbenson/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/util.rs /Users/masonbenson/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/util_libc.rs /Users/masonbenson/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/use_file.rs /Users/masonbenson/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/macos.rs
+
+/Users/masonbenson/Desktop/rust_projects/rust_crash/exercise/z_final_project/target/debug/deps/getrandom-e735b35e4b1d323b.d: /Users/masonbenson/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/lib.rs /Users/masonbenson/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/error.rs /Users/masonbenson/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/util.rs /Users/masonbenson/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/util_libc.rs /Users/masonbenson/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/use_file.rs /Users/masonbenson/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/macos.rs
+
+/Users/masonbenson/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/lib.rs:
+/Users/masonbenson/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/error.rs:
+/Users/masonbenson/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/util.rs:
+/Users/masonbenson/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/util_libc.rs:
+/Users/masonbenson/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/use_file.rs:
+/Users/masonbenson/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/macos.rs:
